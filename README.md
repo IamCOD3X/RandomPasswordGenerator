@@ -1,4 +1,5 @@
 # RandomPasswordGenerator
+Simple password generator up 32 keys using Tkinter GUI
 
 ## INSTALL
 pip install -r requirements.txt
